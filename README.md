@@ -1,51 +1,71 @@
-# Java Practice Projects
+# Mastering Java
 
-This folder is my CS 1331-style Java practice set. The goal is to cover the main ideas from intro object-oriented programming without copying course prompts or solutions.
+This is my 30-day Java mastery track. The point is to build real, small projects that move from core Java syntax into stronger object-oriented design, algorithms, generics, exceptions, file-backed programs, custom data structures, recursion, and JavaFX.
 
-I am adding this one project at a time instead of dumping everything at once. Each project gets its own README and source files.
+This is not a dump of course assignments. Each folder is an original practice project with its own README and source files.
 
-## Projects
+## Progress
 
-1. `01-gradebook-gpa-calculator` - added
-2. `02-concert-ticket-booking` - next
-3. `03-library-management-system`
-4. `04-inventory-file-io`
-5. `05-gt-campus-adventure`
-6. `06-javafx-calculator`
-7. `07-javafx-todo-list`
-8. `08-playlist-shuffler-queue`
-9. `09-polynomial-linked-list`
+| Day | Folder | Focus | Status |
+| ---: | --- | --- | --- |
+| 1 | `01-gradebook-gpa-calculator` | Java foundations, input, conditionals, lists, basic class design | Added |
+| 2 | `02-concert-ticket-booking` | OOP composition, collections, validation, menu-driven app state | Added |
+| 3 | `03-decision-systems` | Conditionals, switch, logical operators, reusable decision logic | Next |
+| 4 | `04-loop-driven-simulations` | loops, nested loops, break/continue, simulation-style programs | Planned |
+| 5 | `05-array-toolkit` | arrays, searching, wrapper classes, command-line arguments | Planned |
+| 6 | `06-matrix-and-grid-processing` | 2D arrays, ragged arrays, grid/matrix processing | Planned |
+| 7 | `07-method-design-toolbox` | method decomposition, overloading, reusable utilities | Planned |
+| 8 | `08-object-modeling-basics` | classes, objects, fields, constructors, access control | Planned |
+| 9 | `09-encapsulation-and-object-state` | getters, setters, `this`, constructor chaining, `toString` | Planned |
+| 10 | `10-static-and-class-design` | `static`, constants, class-level state, object testing | Planned |
+| 11 | `11-inheritance-systems` | inheritance, `protected`, `final`, class hierarchies | Planned |
+| 12 | `12-abstract-classes-and-equality` | abstract classes, overriding `equals`, `Object` methods | Planned |
+| 13 | `13-interfaces-and-comparable` | interfaces, `Comparable`, `Arrays.sort`, generic comparison | Planned |
+| 14 | `14-search-sort-lab` | selection sort, insertion sort, merge sort, linear/binary search | Planned |
+| 15 | `15-algorithm-analysis-lab` | Big-O, growth rates, empirical timing, algorithm tradeoffs | Planned |
+| 16 | `16-advanced-interface-design` | default/static interface methods, constants, interface hierarchies | Planned |
+| 17 | `17-polymorphism-engine` | polymorphism, dynamic binding, safe casting, type design | Planned |
+| 18 | `18-plugin-style-architecture` | abstract classes + interfaces in a plugin-style mini-project | Planned |
+| 19 | `19-exception-control-flow` | call stack, `Throwable`, try/catch, multiple catch blocks | Planned |
+| 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Planned |
+| 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Planned |
+| 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Planned |
+| 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Planned |
+| 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Planned |
+| 25 | `25-generic-linked-list-library` | generic linked list with iterator-style behavior | Planned |
+| 26 | `26-recursion-foundations` | recursion, base cases, call stack, recursive math/string methods | Planned |
+| 27 | `27-recursive-data-structure-algorithms` | recursive array and linked-list algorithms | Planned |
+| 28 | `28-javafx-foundations` | JavaFX scene graph, panes, controls, layout basics | Planned |
+| 29 | `29-javafx-event-driven-apps` | JavaFX events, lambdas, layouts, app state | Planned |
+| 30 | `30-mastering-java-capstone` | JavaFX capstone using OOP, generics, file I/O, exceptions, and recursion | Planned |
 
-GUI projects will use JavaFX only.
+## Daily Rules
 
-## How to Compile
+- Add exactly one new project per day.
+- Keep the code original and in my own style.
+- Include a README inside every project folder.
+- Compile the new project before committing.
+- Use JavaFX only for GUI projects.
+- Do not use Swing.
+- Push each day to GitHub after the project is added.
 
-Each project has its own `src` folder. From a project folder:
+## How to Compile a Project
+
+From a project folder:
 
 ```bash
 javac -d out src/*.java
 java -cp out MainClassName
 ```
 
-For example:
+Example:
 
 ```bash
-cd Java/01-gradebook-gpa-calculator
+cd 01-gradebook-gpa-calculator
 javac -d out src/*.java
 java -cp out GradebookApp
 ```
 
-## What I Practiced
+## Why I Am Building This
 
-- variables, strings, input, and conditionals
-- loops and methods
-- arrays and `ArrayList`
-- classes, constructors, fields, and methods
-- encapsulation with private fields and public methods
-- inheritance, overriding, and polymorphism
-- exceptions and file input/output
-- object composition
-- GUI event handling
-- custom linked-list traversal and insertion
-
-These are practice projects, not official course solutions.
+I want this repo to show real Java growth: not just syntax, but better design decisions over time. The later projects matter the most because they combine interfaces, polymorphism, exceptions, file I/O, generics, recursion, and JavaFX into programs that feel closer to actual software.
