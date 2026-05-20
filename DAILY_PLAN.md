@@ -19,10 +19,10 @@ This is the working schedule for the repo. Codex adds one project per day at 9:0
 | ---: | --- | --- | --- |
 | 1 | `01-gradebook-gpa-calculator` | Java foundations, input, conditionals, lists, basic class design | Added |
 | 2 | `02-concert-ticket-booking` | OOP composition, collections, validation, menu-driven app state | Added |
-| 3 | `03-decision-systems` | Conditionals, switch, logical operators, reusable decision logic | Next |
-| 4 | `04-loop-driven-simulations` | loops, nested loops, break/continue, simulation-style programs | Planned |
-| 5 | `05-array-toolkit` | arrays, searching, wrapper classes, command-line arguments | Planned |
-| 6 | `06-matrix-and-grid-processing` | 2D arrays, ragged arrays, grid/matrix processing | Planned |
+| 3 | `03-decision-systems` | Conditionals, switch, logical operators, reusable decision logic | Added |
+| 4 | `04-loop-driven-simulations` | loops, nested loops, break/continue, simulation-style programs | Added |
+| 5 | `05-array-toolkit` | arrays, searching, wrapper classes, command-line arguments | Added |
+| 6 | `06-matrix-and-grid-processing` | 2D arrays, ragged arrays, grid/matrix processing | Next |
 | 7 | `07-method-design-toolbox` | method decomposition, overloading, reusable utilities | Planned |
 | 8 | `08-object-modeling-basics` | classes, objects, fields, constructors, access control | Planned |
 | 9 | `09-encapsulation-and-object-state` | getters, setters, `this`, constructor chaining, `toString` | Planned |
