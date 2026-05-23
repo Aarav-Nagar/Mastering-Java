@@ -23,8 +23,8 @@ This is the working schedule for the repo. Codex adds one project per day at 9:0
 | 4 | `04-loop-driven-simulations` | loops, nested loops, break/continue, simulation-style programs | Added |
 | 5 | `05-array-toolkit` | arrays, searching, wrapper classes, command-line arguments | Added |
 | 6 | `06-matrix-and-grid-processing` | 2D arrays, ragged arrays, grid/matrix processing | Added |
-| 7 | `07-method-design-toolbox` | method decomposition, overloading, reusable utilities | Next |
-| 8 | `08-object-modeling-basics` | classes, objects, fields, constructors, access control | Planned |
+| 7 | `07-method-design-toolbox` | method decomposition, overloading, reusable utilities | Added |
+| 8 | `08-object-modeling-basics` | classes, objects, fields, constructors, access control | Next |
 | 9 | `09-encapsulation-and-object-state` | getters, setters, `this`, constructor chaining, `toString` | Planned |
 | 10 | `10-static-and-class-design` | `static`, constants, class-level state, object testing | Planned |
 | 11 | `11-inheritance-systems` | inheritance, `protected`, `final`, class hierarchies | Planned |
