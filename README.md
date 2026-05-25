@@ -16,8 +16,8 @@ This is not a dump of course assignments. Each folder is an original practice pr
 | 6 | `06-matrix-and-grid-processing` | 2D arrays, ragged arrays, grid/matrix processing | Added |
 | 7 | `07-method-design-toolbox` | method decomposition, overloading, reusable utilities | Added |
 | 8 | `08-object-modeling-basics` | classes, objects, fields, constructors, access control | Added |
-| 9 | `09-encapsulation-and-object-state` | getters, setters, `this`, constructor chaining, `toString` | Next |
-| 10 | `10-static-and-class-design` | `static`, constants, class-level state, object testing | Planned |
+| 9 | `09-encapsulation-and-object-state` | getters, setters, `this`, constructor chaining, `toString` | Added |
+| 10 | `10-static-and-class-design` | `static`, constants, class-level state, object testing | Next |
 | 11 | `11-inheritance-systems` | inheritance, `protected`, `final`, class hierarchies | Planned |
 | 12 | `12-abstract-classes-and-equality` | abstract classes, overriding `equals`, `Object` methods | Planned |
 | 13 | `13-interfaces-and-comparable` | interfaces, `Comparable`, `Arrays.sort`, generic comparison | Planned |
