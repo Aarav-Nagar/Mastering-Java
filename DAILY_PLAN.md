@@ -28,11 +28,11 @@ This is the working schedule for the repo. Codex adds one project per day at 9:0
 | 9 | `09-encapsulation-and-object-state` | getters, setters, `this`, constructor chaining, `toString` | Added |
 | 10 | `10-static-and-class-design` | `static`, constants, class-level state, object testing | Added |
 | 11 | `11-inheritance-systems` | inheritance, `protected`, `final`, class hierarchies | Added |
-| 12 | `12-abstract-classes-and-equality` | abstract classes, overriding `equals`, `Object` methods | Next |
-| 13 | `13-interfaces-and-comparable` | interfaces, `Comparable`, `Arrays.sort`, generic comparison | Planned |
-| 14 | `14-search-sort-lab` | selection sort, insertion sort, merge sort, linear/binary search | Planned |
-| 15 | `15-algorithm-analysis-lab` | Big-O, growth rates, empirical timing, algorithm tradeoffs | Planned |
-| 16 | `16-advanced-interface-design` | default/static interface methods, constants, interface hierarchies | Planned |
+| 12 | `12-abstract-classes-and-equality` | abstract classes, overriding `equals`, `Object` methods | Added |
+| 13 | `13-interfaces-and-comparable` | interfaces, `Comparable`, `Arrays.sort`, generic comparison | Added |
+| 14 | `14-search-sort-lab` | selection sort, insertion sort, merge sort, linear/binary search | Added |
+| 15 | `15-algorithm-analysis-lab` | Big-O, growth rates, empirical timing, algorithm tradeoffs | Added |
+| 16 | `16-advanced-interface-design` | default/static interface methods, constants, interface hierarchies | Next |
 | 17 | `17-polymorphism-engine` | polymorphism, dynamic binding, safe casting, type design | Planned |
 | 18 | `18-plugin-style-architecture` | abstract classes + interfaces in a plugin-style mini-project | Planned |
 | 19 | `19-exception-control-flow` | call stack, `Throwable`, try/catch, multiple catch blocks | Planned |
