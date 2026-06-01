@@ -32,8 +32,8 @@ This is the working schedule for the repo. Codex adds one project per day at 9:0
 | 13 | `13-interfaces-and-comparable` | interfaces, `Comparable`, `Arrays.sort`, generic comparison | Added |
 | 14 | `14-search-sort-lab` | selection sort, insertion sort, merge sort, linear/binary search | Added |
 | 15 | `15-algorithm-analysis-lab` | Big-O, growth rates, empirical timing, algorithm tradeoffs | Added |
-| 16 | `16-advanced-interface-design` | default/static interface methods, constants, interface hierarchies | Next |
-| 17 | `17-polymorphism-engine` | polymorphism, dynamic binding, safe casting, type design | Planned |
+| 16 | `16-advanced-interface-design` | default/static interface methods, constants, interface hierarchies | Added |
+| 17 | `17-polymorphism-engine` | polymorphism, dynamic binding, safe casting, type design | Next |
 | 18 | `18-plugin-style-architecture` | abstract classes + interfaces in a plugin-style mini-project | Planned |
 | 19 | `19-exception-control-flow` | call stack, `Throwable`, try/catch, multiple catch blocks | Planned |
 | 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Planned |
