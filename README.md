@@ -26,8 +26,8 @@ This is not a dump of course assignments. Each folder is an original practice pr
 | 16 | `16-advanced-interface-design` | default/static interface methods, constants, interface hierarchies | Added |
 | 17 | `17-polymorphism-engine` | polymorphism, dynamic binding, safe casting, type design | Added |
 | 18 | `18-plugin-style-architecture` | abstract classes + interfaces in a plugin-style mini-project | Added |
-| 19 | `19-exception-control-flow` | call stack, `Throwable`, try/catch, multiple catch blocks | Next |
-| 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Planned |
+| 19 | `19-exception-control-flow` | call stack, `Throwable`, try/catch, multiple catch blocks | Added |
+| 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Next |
 | 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Planned |
 | 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Planned |
 | 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Planned |
