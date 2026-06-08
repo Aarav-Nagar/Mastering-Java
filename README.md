@@ -27,8 +27,8 @@ This is not a dump of course assignments. Each folder is an original practice pr
 | 17 | `17-polymorphism-engine` | polymorphism, dynamic binding, safe casting, type design | Added |
 | 18 | `18-plugin-style-architecture` | abstract classes + interfaces in a plugin-style mini-project | Added |
 | 19 | `19-exception-control-flow` | call stack, `Throwable`, try/catch, multiple catch blocks | Added |
-| 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Next |
-| 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Planned |
+| 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Added |
+| 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Next |
 | 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Planned |
 | 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Planned |
 | 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Planned |
@@ -69,3 +69,4 @@ java -cp out GradebookApp
 ## Why I Am Building This
 
 I want this repo to show real Java growth: not just syntax, but better design decisions over time. The later projects matter the most because they combine interfaces, polymorphism, exceptions, file I/O, generics, recursion, and JavaFX into programs that feel closer to actual software.
+
