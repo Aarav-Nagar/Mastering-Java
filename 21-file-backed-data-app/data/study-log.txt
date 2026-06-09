@@ -1,0 +1,4 @@
+2026-06-01|Algorithms review|90|focused=true
+2026-06-02|JavaFX reading|45|focused=false
+2026-06-04|File I/O drills|60|focused=true
+2026-06-08|Repository persistence pass|75|focused=true

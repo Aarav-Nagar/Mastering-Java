@@ -37,8 +37,8 @@ This is the working schedule for the repo. Codex adds one project per day at 9:0
 | 18 | `18-plugin-style-architecture` | abstract classes + interfaces in a plugin-style mini-project | Added |
 | 19 | `19-exception-control-flow` | call stack, `Throwable`, try/catch, multiple catch blocks | Added |
 | 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Added |
-| 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Next |
-| 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Planned |
+| 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Added |
+| 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Next |
 | 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Planned |
 | 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Planned |
 | 25 | `25-generic-linked-list-library` | generic linked list with iterator-style behavior | Planned |
@@ -47,4 +47,5 @@ This is the working schedule for the repo. Codex adds one project per day at 9:0
 | 28 | `28-javafx-foundations` | JavaFX scene graph, panes, controls, layout basics | Planned |
 | 29 | `29-javafx-event-driven-apps` | JavaFX events, lambdas, layouts, app state | Planned |
 | 30 | `30-mastering-java-capstone` | JavaFX capstone using OOP, generics, file I/O, exceptions, and recursion | Planned |
+
 
