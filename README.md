@@ -29,8 +29,8 @@ This is not a dump of course assignments. Each folder is an original practice pr
 | 19 | `19-exception-control-flow` | call stack, `Throwable`, try/catch, multiple catch blocks | Added |
 | 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Added |
 | 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Added |
-| 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Next |
-| 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Planned |
+| 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Added |
+| 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Next |
 | 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Planned |
 | 25 | `25-generic-linked-list-library` | generic linked list with iterator-style behavior | Planned |
 | 26 | `26-recursion-foundations` | recursion, base cases, call stack, recursive math/string methods | Planned |

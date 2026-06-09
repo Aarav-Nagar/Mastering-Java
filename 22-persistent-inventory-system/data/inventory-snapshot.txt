@@ -1,0 +1,4 @@
+A100|Laptop Stand|9|5|34.99
+B205|Wireless Mouse|12|6|18.5
+C310|USB-C Dock|9|4|64.25
+D440|Notebook Pack|20|8|6.75
