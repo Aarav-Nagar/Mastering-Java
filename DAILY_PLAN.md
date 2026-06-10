@@ -39,13 +39,14 @@ This is the working schedule for the repo. Codex adds one project per day at 9:0
 | 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Added |
 | 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Added |
 | 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Added |
-| 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Next |
-| 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Planned |
+| 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Added |
+| 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Next |
 | 25 | `25-generic-linked-list-library` | generic linked list with iterator-style behavior | Planned |
 | 26 | `26-recursion-foundations` | recursion, base cases, call stack, recursive math/string methods | Planned |
 | 27 | `27-recursive-data-structure-algorithms` | recursive array and linked-list algorithms | Planned |
 | 28 | `28-javafx-foundations` | JavaFX scene graph, panes, controls, layout basics | Planned |
 | 29 | `29-javafx-event-driven-apps` | JavaFX events, lambdas, layouts, app state | Planned |
 | 30 | `30-mastering-java-capstone` | JavaFX capstone using OOP, generics, file I/O, exceptions, and recursion | Planned |
+
 
 

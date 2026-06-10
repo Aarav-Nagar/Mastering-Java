@@ -30,8 +30,8 @@ This is not a dump of course assignments. Each folder is an original practice pr
 | 20 | `20-defensive-programming` | custom exceptions, validation, defensive programming | Added |
 | 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Added |
 | 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Added |
-| 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Next |
-| 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Planned |
+| 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Added |
+| 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Next |
 | 25 | `25-generic-linked-list-library` | generic linked list with iterator-style behavior | Planned |
 | 26 | `26-recursion-foundations` | recursion, base cases, call stack, recursive math/string methods | Planned |
 | 27 | `27-recursive-data-structure-algorithms` | recursive array and linked-list algorithms | Planned |
@@ -69,5 +69,6 @@ java -cp out GradebookApp
 ## Why I Am Building This
 
 I want this repo to show real Java growth: not just syntax, but better design decisions over time. The later projects matter the most because they combine interfaces, polymorphism, exceptions, file I/O, generics, recursion, and JavaFX into programs that feel closer to actual software.
+
 
 
