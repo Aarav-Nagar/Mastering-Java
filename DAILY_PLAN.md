@@ -40,8 +40,8 @@ This is the working schedule for the repo. Codex adds one project per day at 9:0
 | 21 | `21-file-backed-data-app` | file I/O, delimited files, parsing, persistence | Added |
 | 22 | `22-persistent-inventory-system` | larger file-backed app with custom exceptions and reports | Added |
 | 23 | `23-generics-and-arraylist` | generics, `ArrayList`, reusable collection utilities | Added |
-| 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Next |
-| 25 | `25-generic-linked-list-library` | generic linked list with iterator-style behavior | Planned |
+| 24 | `24-linked-list-from-scratch` | nodes, traversal, insert/remove, linked-list internals | Added |
+| 25 | `25-generic-linked-list-library` | generic linked list with iterator-style behavior | Next |
 | 26 | `26-recursion-foundations` | recursion, base cases, call stack, recursive math/string methods | Planned |
 | 27 | `27-recursive-data-structure-algorithms` | recursive array and linked-list algorithms | Planned |
 | 28 | `28-javafx-foundations` | JavaFX scene graph, panes, controls, layout basics | Planned |
