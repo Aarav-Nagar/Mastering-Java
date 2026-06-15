@@ -1,4 +1,4 @@
-# Mastering Java
+# 30 Days of Java
 
 This is my 30-day Java mastery track. The point is to build real, small projects that move from core Java syntax into stronger object-oriented design, algorithms, generics, exceptions, file-backed programs, custom data structures, recursion, and JavaFX.
 
